@@ -1,4 +1,4 @@
-Hi, I’m Mmanoj
+Hi, I’m Manoj
 - I’m interested in Data Science, Data Engineering, Data Architecture, Mathematical Modeling, Algorithms etc
 - I’m currently learning Graph based ML algorthms, Advance NLP techniques
 - I’m looking to collaborate on Mathematical Modeling, Graph Therory, Graph based ML algorthms etc
