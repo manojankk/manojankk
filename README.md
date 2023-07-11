@@ -1,7 +1,9 @@
 Hi, I’m Manoj
-- I’m interested in Data Science, Data Engineering, Data Architecture, Mathematical Modeling, Algorithms etc
-- I’m currently learning Graph based ML algorthms, Advance NLP techniques
-- I’m looking to collaborate on Mathematical Modeling, Graph Therory, Graph based ML algorthms etc
+- I'm a data scientist with 7+ years of work experience in Data Science, Data Engineering, Data Architecture, Mathematical Modeling, Algorithms etc
+- Total 20+ year IT experience
+- 7+ years work experience as data architect
+- I’m currently learning Graph based ML algorthms, Advance NLP techniques and Azure 
+- I’m very good at SQL, databases and python
 - How to reach me - manojankk@gmail.com
 
 <!---
